@@ -48,15 +48,15 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 :- [─꯭─⃝‌‌Dɜ⃨⃔v‌ɪ‌l F⃪‌‌ʌ𝆭‌⃪‌ʀ‌ʜ‌ʌ𝆭‌⃪‌ɳ⃪ ▁▁▁╱╱😈⚔️👿](https://www.facebook.com/devil.rj.farhan)
+- ➪ 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 :- [─꯭─⃝‌‌Dɜ⃨⃔v‌ɪ‌l F⃪‌‌ʌ𝆭‌⃪‌ʀ‌ʜ‌ʌ𝆭‌⃪‌ɳ⃪ ▁▁▁╱╱😈⚔️👿](https://www.facebook.com/DEVIL.FARHAN.420)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝗪𝗛𝗔𝗧𝗦𝗨𝗣 :- [─⃝‌‌𓆩𝐌𝐑ﮩ٨𝐅𝐀𝐑𝐇𝐀𝐍᭄𓆪___//😈🩵🪽](https://wa.me/+8801866673801)
+- ➪ 𝗪𝗛𝗔𝗧𝗦𝗨𝗣 :- [─⃝‌‌𓆩𝐌𝐑ﮩ٨𝐅𝐀𝐑𝐇𝐀𝐍᭄𓆪___//😈🩵🪽](https://wa.me/+8801934640061)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
 <h3><b><i> 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐦𝐞 𝐢𝐧 𝐓𝐨𝐮𝐜𝐡:</i></b></h3>
 <a href="https://github.com/DJ-FARHAN-BOT/MIM"><img align="left" title="Github" alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" /></a>
-<a href="https://www.facebook.com/devil.rj.farhan"><img align="left" title="Facebook" alt="Facebook" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" /></a>
+<a href="https://www.facebook.com/DEVIL.FARHAN.420"><img align="left" title="Facebook" alt="Facebook" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" /></a>
 <a href="https://www.instagram.com/devil.rj.farhan?igsh=ODR4c295ZWQ1bDI4"><img align="left" title="Instagram" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" /></a>
