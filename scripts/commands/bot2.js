@@ -207,7 +207,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("সরি বস মাফ করে দেন আর এমন ভুল হবে না🥺🙏", threadID);
    };
 
-   if ((event.body.toLowerCase() == "Fariya") || (event.body.toLowerCase() == "fariya")) {
+   if ((event.body.toLowerCase() == "Payel") || (event.body.toLowerCase() == "payel")) {
      return api.sendMessage("বাড়িতে খাই ঝাটার বাড়ি, ফেসবুকে সে অ্যাটিটিউড নারী,😒🤣", threadID);
    };
 
